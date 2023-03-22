@@ -12,7 +12,6 @@ $(document).ready(function() {
 		}
 	});
 
-
 	/* About me slider */
 	$('.about-me-slider').slick({
 		slidesToShow: 1,
