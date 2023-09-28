@@ -1,2 +1,3 @@
 # frankcistems.github.io
-A Custom Website
+Version 1.0
+My first Personal Website
